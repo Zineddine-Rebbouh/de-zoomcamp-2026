@@ -6,7 +6,8 @@ My solutions for the Data Engineering Zoomcamp by DataTalksClub.
 
 | Module | Topic | Solution |
 |--------|-------|----------|
-| 6 | Batch Processing with Spark | [de_zoomcamp_hw6.ipynb](./de_zoomcamp_hw6.ipynb) |
+| 6 | Batch Processing with Spark | [hw6.ipynb](./hw6.ipynb) |
+| 7 | Streaming with Kafka and PyFlink | [hw7.ipynb](./hw7.ipynb) |
 
 ## Course
 
